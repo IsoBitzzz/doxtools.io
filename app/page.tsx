@@ -19,7 +19,7 @@ export default function Home() {
       </ul>
 
       <h2>Roadmap part 2:</h2>
-      <p>PRESALE OF $DOX</p>
+      <p>PRESALE OF $DOXT</p>
       <ul>
         <li>
           PRESALE INFO PENDING AFTER POC STEP.
