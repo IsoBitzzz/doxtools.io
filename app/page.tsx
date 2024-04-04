@@ -33,7 +33,7 @@ export default function Home() {
           COMMUNITY TARGET #001: Unkown
         </li>
         <li>
-        TARGET RECOMENDATION: <a href="https://twitter.com/WhaleFUD"><span className="IsTarget">@WHALEFUD</span></a>
+        TARGET RECOMMENDATION: <a href="https://twitter.com/WhaleFUD"><span className="IsTarget">@WHALEFUD</span></a>
         </li>
       </ul>
     </div>
