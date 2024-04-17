@@ -8,7 +8,7 @@ export default function Home() {
       <p>A community focused toolset for driving value and unmasking human garbage.</p>
       
       <img src="scooby-doo-doo.png" alt="Your Name" />
-      <div>
+      {/* <div>
       <h2>Roadmap part 1:</h2>
 
       <p>Proof of concept.</p>
@@ -36,7 +36,7 @@ export default function Home() {
         TARGET RECOMMENDATION: <a href="https://twitter.com/WhaleFUD"><span className="IsTarget">@WHALEFUD</span></a>
         </li>
       </ul>
-    </div>
+    </div> */}
     </div>
   );
 }
